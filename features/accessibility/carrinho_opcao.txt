@@ -1,0 +1,5 @@
+CARRINHO.             
+Para Adicionar Produto. insira 1.                     
+Para Remover Produto. insira 2.                        
+Para Finalizar Compra. insira 3.             
+Para Cancelar Compra. insira 0          
