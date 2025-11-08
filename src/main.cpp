@@ -99,7 +99,7 @@ void exibirMenuInicial(){
 
     // Exibindo a tela inicial
     std::cout << "**************************************************\n";
-    std::cout << "                  SUPERMERCADO DA CCP             \n\n";
+    std::cout << "                    VOXMERCATUS            \n\n";
     std::cout << "**************************************************\n";
     std::cout << "                " << dataAtual << "              \n";
     std::cout << "**************************************************\n";

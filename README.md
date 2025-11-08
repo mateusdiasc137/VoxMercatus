@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Supermercado
+# VoxMercatus
 
 ## Descrição do Projeto
 
